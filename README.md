@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuvraj707sharma
-- 👀 I’m interested in making money.
+- 👀 I’m interested in solving problems and make like easier.
 - 🌱 I’m currently learning programming languages and entrepreneurship 
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me - drop an email on nannu0007@gmail.com
