@@ -4,7 +4,7 @@
 > Operating at the intersection of AI, hardware & scalable systems.
 
 Short bio
-- Second-year B.Tech (CSE) at JECRC University, Jaipur.
+- Third-year B.Tech (CSE) at JECRC University, Jaipur.
 - I'm a product-minded engineer who ships end-to-end systems — from LLM-powered apps to wearable health devices and embedded firmware.
 - I love tackling hard problems that require both software and hardware thinking.
 
